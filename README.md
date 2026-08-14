@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![My GitFut card](https://gitfut.com/ecrou-exact.png)](https://gitfut.com/ecrou-exact)
+[![My GitFut card](https://gitfut.com/ecrou-exact)](https://gitfut.com/ecrou-exact)
 
 **ecrou-exact/ecrou-exact** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
